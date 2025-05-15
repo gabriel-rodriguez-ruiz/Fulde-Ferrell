@@ -1,5 +1,6 @@
 ---
 title: "Fulde-Ferrell"
+format: revealjs
 ---
 
 ## Quarto
